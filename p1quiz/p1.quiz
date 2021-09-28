@@ -1,0 +1,11 @@
+# goaleach	p1	1
+# goaleach	comps	1
+# goaleach	emacs	1
+# goal		emacs	3
+goal		python	4
+goal		simplepython	4
+goal		simplewhile	5
+# goal		range		5
+goal		fruit		5
+goaleach		stringindex	1
+goaleach		listindex	1
